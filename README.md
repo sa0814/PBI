@@ -1,4 +1,4 @@
-# P I D and PIDA Controllers
+# P I D and P I D A Controllers
 
 * * * 
 
